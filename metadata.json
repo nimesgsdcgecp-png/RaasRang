@@ -1,0 +1,6 @@
+{
+  "name": "RaasRang Ahmedabad - Navratri Garba & Parking Discovery",
+  "description": "Discover authentic Ahmedabad Garba grounds, real-time parking availability, live artist line-ups, verified reviews, and direct BookMyShow & District ticket booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
